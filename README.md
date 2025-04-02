@@ -6,7 +6,7 @@ CryptoWeather Nexus is a web application that provides real-time weather updates
 
 ## Live URL
 
-https://cryptoweather-nexus-j4sapcbpc-harsh-s-projects-68a221d9.vercel.app/
+https://cryptoweather-nexus-ldgijzp6u-harsh-s-projects-68a221d9.vercel.app/
 
 ## Features
 
